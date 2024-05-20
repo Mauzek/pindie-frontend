@@ -2,6 +2,8 @@
 
 ## Frontend веб-приложения Pindie
 
+Backend: https://pindiegames-backend.nomoredomainswork.ru/
+
 First, run the development server:
 
 ```bash
